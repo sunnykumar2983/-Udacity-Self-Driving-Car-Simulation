@@ -9,7 +9,6 @@ model.py is the source code of the trained model.
 
 drive.py is the file that will move the car in the simulator
 
-
 ## To run the Model:
 1. Clone the repo.
 
