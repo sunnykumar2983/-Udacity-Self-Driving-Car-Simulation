@@ -12,7 +12,7 @@ drive.py is the file that will move the car in the simulator
 ## To run the Model:
 1. Clone the repo.
 
-#### git clone https://github.com/harshit432/Udacity-Self-Driving-Car-Simulation.git
+#### git clone https://github.com/sunnykumar2983/-Udacity-Self-Driving-Car-Simulation.git
 
 2. Convert the ipynb file to .py file. Go to the jupyter notebook->files.
 
