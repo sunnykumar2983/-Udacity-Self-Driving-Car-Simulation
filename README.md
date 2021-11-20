@@ -7,7 +7,7 @@ Source Code of Udacity Self Driving Car Simulation on the simulator provided by 
 
 model.py is the source code of the trained model.
 
-drive.py is the file that will move the car in the simulator
+drive_git.py is the file that will move the car in the simulator
 
 ## To run the Model:
 1. Clone the repo.
